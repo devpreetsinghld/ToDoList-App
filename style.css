@@ -1,0 +1,53 @@
+h1{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.err{
+    color: red;
+}
+#add{
+    background-color: rgb(118, 118, 254);
+    border: 2px solid rgb(118, 118, 254);
+    border-radius: 5px;
+    color: white;
+}
+#add:hover{
+    background-color: rgb(60, 60, 137);
+    border: 2px solid rgb(60, 60, 137);
+}
+.greendone{
+    background-color: rgb(111, 219, 111);
+}
+.limods{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 5px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.cursorpointer{
+    cursor: pointer;
+}
+.redbtn{
+    background-color: rgb(255, 93, 93);
+    color: white;
+    border: 2px solid rgb(255, 93, 93);
+    border-radius: 3px;
+}
+.labl{
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+}
+.dark{
+    background-color: rgb(67, 67, 67);
+}
+.headingcolor{
+    color: white;
+}
+.hash{
+    background-color: azure;
+}
