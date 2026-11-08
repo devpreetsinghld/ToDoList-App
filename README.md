@@ -55,8 +55,7 @@ Through this project, I practised:
 - CSS styling and layouts.
 - JavaScript DOM manipulation.
 - JavaScript event listeners.
-- Arrays and functions.
-- Browser Local Storage.
+
 
 ## 👨‍💻 Author
 
