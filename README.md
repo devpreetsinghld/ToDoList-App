@@ -9,8 +9,7 @@ A simple and interactive **To-Do List Web Application** built using HTML, CSS, a
 - 🗑️ Delete tasks.
 - 📱 Simple and responsive user interface.
 - 🎨 Clean and user-friendly design.
-- 💾 Save tasks using Local Storage.
-- 🔄 Tasks remain saved even after refreshing the page.
+
 
 ## 🛠️ Technologies Used
 
